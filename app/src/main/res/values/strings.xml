@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BEHAVE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="detection">Detection</string>
+    <string name="chart_summary_placeholder">Summary of the chart will be displayed here.</string>
+    <string name="view_all_reports">View All Reports</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
